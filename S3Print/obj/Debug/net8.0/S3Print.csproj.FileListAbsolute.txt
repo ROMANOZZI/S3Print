@@ -1,0 +1,14 @@
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\bin\Debug\net8.0\S3Print.exe
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\bin\Debug\net8.0\S3Print.deps.json
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\bin\Debug\net8.0\S3Print.runtimeconfig.json
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\bin\Debug\net8.0\S3Print.dll
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\bin\Debug\net8.0\S3Print.pdb
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\obj\Debug\net8.0\S3Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\obj\Debug\net8.0\S3Print.AssemblyInfoInputs.cache
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\obj\Debug\net8.0\S3Print.AssemblyInfo.cs
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\obj\Debug\net8.0\S3Print.csproj.CoreCompileInputs.cache
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\obj\Debug\net8.0\S3Print.dll
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\obj\Debug\net8.0\refint\S3Print.dll
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\obj\Debug\net8.0\S3Print.pdb
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\obj\Debug\net8.0\S3Print.genruntimeconfig.cache
+C:\Users\MohamedINDEXPPG\source\repos\S3Print\S3Print\obj\Debug\net8.0\ref\S3Print.dll
